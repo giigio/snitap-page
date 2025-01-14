@@ -80,7 +80,7 @@ section.hero {
   & > div:nth-child(2) {
     display: block;
     width: 100%;
-    maxi-width: 30.5rem;
+    max-width: 30.5rem;
     height: 30.5rem;
 
     & .content {
